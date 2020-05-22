@@ -55,7 +55,7 @@ monopoloy ={
         :mortgage_value => 400
       },
       :shortline_railroad => {
-        :mortgage_value => 500
+        :mortgage_value => 800
       },
     }
   }
